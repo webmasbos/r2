@@ -1,4 +1,4 @@
-name = "r2-manager"
+name = "r2"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
